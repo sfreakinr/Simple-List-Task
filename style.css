@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+body{
+    background-color: rgba(250, 235, 215, 0.395);
+}
+
+h1{
+    font-weight: 700;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #f8f9fa;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
